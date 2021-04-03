@@ -65,4 +65,4 @@ To deploy the solution, follow the steps listed [here](./deployment.md).
 
 ---
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [jeffrey@schijioke.com](mailto:@Jeffrey Chijioke-Uche, United States) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact Jeffrey Chijioke-Uche, United States, with any additional questions or comments.
